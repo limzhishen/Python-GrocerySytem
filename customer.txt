@@ -1,0 +1,6 @@
+Lim;lzs;99;0;0133557875;zhi@gmail.com;Male;29/12/1999;A pass;
+KSK;ksk123;123;122.2;0126548756;ksk@mail.com;Male;21/12/1999;nononoway;
+Pat;pat;123;60.5;0123654879;pat@mail.com;Male;02/10/2002;F4liuxinhuayuan;
+yong;yuanyuan;0519;0.0;0187676051;1234@gmail.com;Other;19/5/2003;johor;
+Test;test;123;21.0;0123456789;test@mail.com;Male;20/09/2022;APU CT108-3-1-PYP;
+jJohn lee;yui;123;97.2;0123456789;dsada@gmail.com;Male;3/10/2022;dsad;
